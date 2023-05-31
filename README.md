@@ -2,6 +2,7 @@
 Tech learner and Cloud Enthusiast 
 - 🌱 I’m currently learning AWS cloud, Django, Data structures
 - 👯 I’m looking to collaborate on Web Development and Cloud 
+- 📫 Mail : goyalshrey035@gmail.com
 <!--
 **Shrey0226/Shrey0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
